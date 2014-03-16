@@ -54,6 +54,7 @@ libmathicgb_la_SOURCES = src/mathicgb/MonoArena.hpp						\
   src/mathicgb/F4ProtoMatrix.cpp src/mathicgb/F4MatrixProject.hpp		\
   src/mathicgb/F4MatrixProjection.cpp src/mathicgb/ScopeExit.hpp		\
   src/mathicgb.cpp src/mathicgb.h src/mathicgb/mtbb.hpp					\
+  src/mathicgb/mtbb.cpp                                                 \
   src/mathicgb/PrimeField.hpp src/mathicgb/MonoMonoid.hpp				\
   src/mathicgb/MonoProcessor.hpp src/mathicgb/MonoOrder.hpp				\
   src/mathicgb/Scanner.hpp src/mathicgb/Scanner.cpp						\
